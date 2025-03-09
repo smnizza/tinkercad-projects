@@ -19,7 +19,7 @@ This project simulates a traffic light system using Arduino Uno in Tinkercad. It
 
 ## Folder Structure  
 - [**circuit_diagram/**](https://github.com/smnizza/tinkercad_project/circuit_diagram) → Contains circuit diagrams and schematics.
-- [**traffic_light/**](https://github.com/smnizza/tinkercad_project/traffic_light) → Arduino code for the project.
+- [**traffic_light/**](https://github.com/smnizza/tinkercad_project/blob/main/Traffic%20Light/traffic_light.ino) → Arduino code for the project.
 - [**schematic_diagram/**](https://github.com/smnizza/tinkercad_project/schematic_diagram) → Reference images of the simulation.
 
 ---
