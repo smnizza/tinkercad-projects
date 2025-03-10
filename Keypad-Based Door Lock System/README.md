@@ -24,11 +24,9 @@ This project implements a simple security system using an Arduino Uno, a 4x4 key
 - **`door_lock.pdf`** → Schematic design in PDF format.  
 - **`door_lock.png`** → Circuit diagram as an image.  
 
-## Usage  
-1. Open the Arduino IDE.  
-2. Upload the provided code to an Arduino Uno.  
-3. Connect the components as per the circuit diagram.  
-4. Run the simulation in Tinkercad or test it on a real Arduino setup.  
+## Tinkercad Simulation  
+You can view and simulate the project on Tinkercad:  
+[**Tinkercad Link**](https://www.tinkercad.com/things/hb7KpEJaQpJ-smart-door-lock-with-keypad)
 
 ---
 
