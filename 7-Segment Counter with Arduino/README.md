@@ -1,4 +1,4 @@
-# 7-Segment Counter with Arduino (Tinkercad)
+# 7-Segment Counter with Arduino
 
 This project implements a simple counter using Arduino Uno and a 7-segment display in Tinkercad. The counter increases or decreases based on button presses.
 
