@@ -13,7 +13,7 @@ This project implements a simple counter using Arduino Uno and a 7-segment displ
 - When **Push Button 2** is pressed, the counter decrements from `99` to `01`.
 
 ## Folder Structure  
-- **`tcounter.ino`** → Arduino code for the project.
+- **`ccounter.ino`** → Arduino code for the project.
 - **`counter.pdf`** → Schematic design in PDF format.
 - **`counter.png`** → Circuit diagram as an image.
 
