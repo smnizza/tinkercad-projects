@@ -1,4 +1,4 @@
-# Keypad-Based Door Lock System with Arduino (Tinkercad)
+# Keypad-Based Door Lock System
 
 This project implements a simple security system using an Arduino Uno, a 4x4 keypad, an LCD display, and a servo motor for door control.
 
