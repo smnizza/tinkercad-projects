@@ -18,9 +18,9 @@ This project simulates a traffic light system using Arduino Uno in Tinkercad. It
 - The yellow light is used for transition between red and green for vehicles.  
 
 ## Folder Structure  
-- [**circuit_diagram/**](https://github.com/smnizza/tinkercad_project/circuit_diagram) → Contains circuit diagrams and schematics.
-- [**traffic_light/**](https://github.com/smnizza/tinkercad_project/blob/main/Traffic%20Light/traffic_light.ino) → Arduino code for the project.
-- [**schematic_diagram/**](https://github.com/smnizza/tinkercad_project/schematic_diagram) → Reference images of the simulation.
+- **`traffic_light.ino`** → Arduino code for the project.
+- **`traffic_light.pdf`** → Schematic design in PDF format.
+- **`traffic_light.png`** → Circuit diagram as an image.
 
 ---
 
