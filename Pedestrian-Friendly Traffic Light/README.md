@@ -1,4 +1,4 @@
-# Traffic Light Simulation with Arduino (Tinkercad)
+# Pedestrian-Friendly Traffic Light
 
 This project simulates a traffic light system using Arduino Uno in Tinkercad. It includes a pedestrian crossing mechanism activated by a push button.
 
