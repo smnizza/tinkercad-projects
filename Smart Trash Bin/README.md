@@ -22,6 +22,10 @@ This project simulates a smart trash bin using Arduino Uno in Tinkercad. The bin
 - **`trash_bin.pdf`** → Schematic design in PDF format.  
 - **`trash_bin.png`** → Circuit diagram as an image.  
 
+## Tinkercad Simulation  
+You can view and simulate the project on Tinkercad:  
+[**Tinkercad Link**](https://www.tinkercad.com/things/cKfHRCXsmAW-smart-trash-bin)
+
 ---
 
 Feel free to modify and improve this project as needed! 😊
