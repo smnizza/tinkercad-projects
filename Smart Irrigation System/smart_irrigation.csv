@@ -1,0 +1,10 @@
+﻿Name,Quantity,Component
+"U4",1," Arduino Uno R3"
+"SEN4",1," Soil Moisture Sensor"
+"U3",1,"PCF8574-based, 32 (0x20) LCD 16 x 2 (I2C)"
+"PIEZO1",1," Piezo"
+"R2, R4",2,"220 Ω Resistor"
+"D6",1,"Red LED"
+"D7",1,"Blue LED"
+"R5",1,"100 Ω Resistor"
+"SERVO1",1,"Positional Micro Servo"
