@@ -1,4 +1,4 @@
-# Smart Irrigation System with Arduino (Tinkercad)
+# Smart Irrigation System
 
 This project simulates a smart irrigation system using Arduino Uno in Tinkercad. The system automatically adjusts water flow based on soil moisture levels.
 

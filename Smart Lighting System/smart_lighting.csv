@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"Q1",1," Ambient Light Sensor [Phototransistor]"
+"PIR1",1," PIR Sensor"
+"U2",1,"PCF8574-based, 32 (0x20) LCD 16 x 2 (I2C)"
+"R1",1,"2 kΩ Resistor"
+"L1",1," Light bulb"
+"K1",1," Relay SPDT"
+"P1",1,"5 , 5  Power Supply"
