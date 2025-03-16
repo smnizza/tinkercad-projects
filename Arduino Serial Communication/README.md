@@ -18,7 +18,7 @@ This project demonstrates serial communication between two Arduino boards in Tin
 
 ## Tinkercad Simulation  
 You can view and simulate the project on Tinkercad:  
-[**Tinkercad Link**](https://www.tinkercad.com/)
+[**Tinkercad Link**](https://www.tinkercad.com/things/gjAZyU7VnKb-arduino-serial-communication)
 
 ---
 
