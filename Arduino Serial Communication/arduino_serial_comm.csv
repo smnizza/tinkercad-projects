@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"UReceiver, UTransmitter",2," Arduino Uno R3"
+"S1",1," Pushbutton"
+"R1",1,"350 Ω Resistor"
+"D1",1,"Blue LED"
+"R2",1,"10 kΩ Resistor"
